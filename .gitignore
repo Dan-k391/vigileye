@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Personal session logs and the dataset stay on this computer
+logs/
+data/
+evaluation/cache/
+tests/.scratch-evaluation/
+
+# Downloaded on first run
+models/
